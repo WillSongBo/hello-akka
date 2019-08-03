@@ -1,3 +1,4 @@
 *.sbt linguist-language=Java
 *.bat linguist-language=Java
 *.gradle linguist-language=Java
+*.bash linguist-language=Java
